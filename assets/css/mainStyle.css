@@ -224,3 +224,8 @@ section img{
   right: 1rem;
   font-size: 0.9em;
 }
+
+.img-profile{
+  width: 100%;
+  height: 100%;
+}
